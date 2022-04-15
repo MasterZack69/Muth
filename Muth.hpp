@@ -1,17 +1,18 @@
 #pragma once
 
-void Add(float a, float b);
-void Sub(float a, float b);
-void Multi(float a, float b);
-void Div(float a, float b);
-void Percent(float a, float b);
-void PercentOf(float a, float b);
-void AreaTri(float a, float b);
-void AreaSq(float a);
-void AreaRec(float a, float b);
-void AreaTrap(float a, float b, float c);
-void AreaRhom(float a, float b);
-void AreaPara( float a, float b);
-void VolCube(float a);
-void VolCuboid(float a, float b, float c);
-void VolRightCyl(float a, float b);
+void jod(float a, float b);
+void ghata(float a, float b);
+void guna(float a, float b);
+void bhag(float a, float b);
+void pratishat(float a, float b);
+void ka_pratishat(float a, float b);
+void trikon_ka_shetrafal(float a, float b);
+void varg_ka_shetrafal(float a);
+void chaturbhurj_ka_shetrafal(float a, float b);
+void samlambchaturbhurj_ka_shetrafal(float a, float b, float c);
+void samchaturbhurj_ka_shetrafal(float a, float b);
+void samantar_chaturbhurj_ka_shetrafal(float a, float b);
+void ghan_ka_aytan(float a);
+void ghanabh_ka_aytan(float a, float b, float c);
+void belan_ka_aytan(float a, float b);
+void vritt_ka_shetrafal(float a);
