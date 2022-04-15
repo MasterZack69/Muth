@@ -1,85 +1,156 @@
 #include <iostream>
 #include "Muth.hpp"
 
-void Add(float a, float b)
+std::string space = "----------------------------\n";
+std::string space2 = "----------------------------\n\n";
+
+void jod(float a, float b)
 {
-	std::cout << a << " + " << b << " = " << a + b << "\n";
+	std::cout << space;
+	std::cout << a << " जमा " << b << "\n"
+			  << " = " << a + b << "\n";
+	std::cout << space2;
 }
 
-void Sub(float a, float b)
+void ghata(float a, float b)
 {
-	std::cout << a << " - " << b << " = " << a - b << "\n";
+	std::cout << space;
+	std::cout << a << " घटा " << b << "\n"
+			  << " = " << a - b << "\n";
+	std::cout << space2;
 }
 
-void Multi(float a, float b)
+void guna(float a, float b)
 {
-	std::cout << a << " * " << b << " = " << a * b << "\n";
+	std::cout << space;
+	std::cout << a << " गुना " << b << "\n"
+			  << " = " << a * b << "\n";
+	std::cout << space2;
 }
 
-void Div(float a, float b)
+void bhag(float a, float b)
 {
-	std::cout << a << " / " << b << " = " << a / b << "\n";
+	std::cout << space;
+	std::cout << a << " बटा " << b << "\n"
+			  << " = " << a / b << "\n";
+	std::cout << space2;
 }
 
-void Percent(float a, float b)
+void pratishat(float a, float b)
 {
+	std::cout << space;
 	float value1 = a * 100;
 	float value2 = value1 / b;
-	std::cout << "Percentage of " << a << "/" << b << " = " << value2 << "%\n";
+	std::cout << a << " बटे " << b << " का प्रतिशत \n"
+			  << " = " << value2 << "%\n";
+	std::cout << space2;
 }
 
-void PercentOf(float a, float b)
+void ka_pratishat(float a, float b)
 {
+	std::cout << space;
 	float value1 = a * b;
 	float value2 = value1 / 100;
-	std::cout << a << "% "
-			  << "of " << b << " = " << value2 << "\n";
+	std::cout << a << " का " << b << " प्रतिशत \n"
+			  << " = " << value2 << "\n";
+	std::cout << space2;
 }
 
-void AreaTri(float a, float b)
+void trikon_ka_shetrafal(float a, float b)
 {
-	std::cout << "Area of ∆ :- base : " << a << ", height : " << b << " = " << 0.5 * a * b << "\n";
+	std::cout << space;
+	std::cout << "त्रिकोण का क्षेत्रफल  "
+			  << "\n"
+			  << "आधार : " << a << ", उंचाई : " << b << "\n"
+			  << " = " << 0.5 * a * b << "\n";
+	std::cout << space2;
 }
 
-void AreaSq(float a)
+void vritt_ka_shetrafal(float a)
 {
-	std::cout << "Area of Sq. :- side : " << a << " = " << a * a << "\n";
+	float value1 = 2 * acos(0.0);
+	float value2 = a * a;
+
+	std::cout << space;
+	std::cout << "वृत्त का क्षेत्रफल\n"
+			  << "त्रिज्या : " << a << "\n"
+			  << " = " << value1 * value2 << "\n";
+	std::cout << space2;
 }
 
-void AreaRec(float a, float b)
+void varg_ka_shetrafal(float a)
 {
-	std::cout << "Area of Rectangle :- length : " << a << ", breadth : " << b << " = " << a * b << "\n";
+	std::cout << space;
+	std::cout << "वर्ग का क्षेत्रफल"
+			  << "\n"
+			  << "कोना : " << a << "\n"
+			  << " = " << a * a << "\n";
+	std::cout << space2;
 }
 
-void AreaTrap(float a, float b, float c)
+void chaturbhurj_ka_shetrafal(float a, float b)
+{
+	std::cout << space;
+	std::cout << "चतुर्भुज का क्षेत्रफल\n"
+			  << "लंबाई : " << a << ", चौड़ाई : " << b << "\n"
+			  << " = " << a * b << "\n";
+	std::cout << space2;
+}
+
+void samlambchaturbhurj_ka_shetrafal(float a, float b, float c)
 {
 	float value = a + b;
-	std::cout << "Area of Trapezium :- Parallel Sides : " << a << " and " << b << ",height : " << c << " = " << 0.5 * value * c << "\n";
+	std::cout << space;
+	std::cout << "समलम्ब चतुर्भुज का क्षेत्रफल\n"
+			  << "समानांतर कोने : " << a << " और " << b << ", ऊंचाई : " << c << "\n"
+			  << " = " << 0.5 * value * c << "\n";
+	std::cout << space2;
 }
 
-void AreaRhom(float a, float b)
+void samchaturbhurj_ka_shetrafal(float a, float b)
 {
-	std::cout << "Area of Rhombus :- Diagonals : " << a << " and " << b << " = " << a * b << "\n";
+	std::cout << space;
+	std::cout << "समचतुर्भुज का क्षेत्रफल\n"
+			  << "आधार : " << a << ", ऊंचाई  : " << b << "\n"
+			  << " = " << a * b << "\n";
+	std::cout << space2;
 }
 
-void AreaPara(float a, float b)
+void samantar_chaturbhurj_ka_shetrafal(float a, float b)
 {
-	std::cout << "Area of Parallelogram :- base : " << a << ", height : " << b << " = " << a * b << "\n";
+	std::cout << space;
+	std::cout << "समांतर चतुर्भुज का क्षेत्रफल\n"
+			  << "आधार : " << a << ", ऊंचाई : " << b << "\n"
+			  << " = " << a * b << "\n";
+	std::cout << space2;
 }
 
-void VolCube(float a)
+void ghan_ka_aytan(float a)
 {
-	std::cout << "Volume of Cube :- side : " << a << " = " << a * a * a << "\n";
+	std::cout << space;
+	std::cout << "घन का आयतन\n"
+			  << "कोना : " << a << "\n"
+			  << " = " << a * a * a << "\n";
+	std::cout << space2;
 }
 
-void VolCuboid(float a, float b, float c)
+void ghanabh_ka_aytan(float a, float b, float c)
 {
-	std::cout << "Volume of Cuboid :- length : " << a << ", breadth : " << b << ", Height : " << c << " = " << a * b * c << "\n";
+	std::cout << space;
+	std::cout << "घनाभ का आयतन\n"
+			  << "लंबाई : " << a << ", चौड़ाई : " << b << "\n"
+			  << " = " << a * b << "\n";
+	std::cout << space2;
 }
 
-void VolRightCyl(float a, float b)
+void belan_ka_aytan(float a, float b)
 {
 	float value1 = a * a;
-    float value2 = 2*acos(0.0);
-	std::cout << "Volume of Right Cylinder :- Radius : " << a << ", Height : " << b << " = " << value2 * value1 * b << "\n";
-} 
+	float value2 = 2 * acos(0.0);
+	std::cout << space;
+	std::cout << "बेलन का आयतन \n"
+			  << "त्रिज्या : " << a << ", ऊंचाई : " << b << "\n"
+			  << " = " << value2 * value1 * b << "\n";
+	std::cout << space2;
+}
+
