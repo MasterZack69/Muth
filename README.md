@@ -1,6 +1,7 @@
 # Muth
 A simple and ez to use mathematical library for C++( this project **"was"** full of shit )
 
+# IT'S MUTH 2.69!!!!!!
 # What's New??
 I changed all those functions with hindi output and also changed there names in hinglish.
 
@@ -9,5 +10,7 @@ This library has basic mathematical operations covered like area and volume, it 
 And it also does not have trigonometry becuz me noob.....;-;
 
 Hope You like my project;)
+# Upcoming
+Fijiks formulas 🙃
 
-# IT'S MUTH 2.69!!!!!!
+
