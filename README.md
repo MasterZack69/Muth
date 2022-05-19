@@ -11,7 +11,7 @@ I changed all those functions with hindi output and also changed there names in 
 # Upcoming
 Fijiks formulas 🙃
 
-Parameter
+Perimeter
 
 Trigonometry (after an year)
 
