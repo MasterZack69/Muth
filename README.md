@@ -4,14 +4,18 @@ Here you can get basic mathamatical operational functions like area and volume w
 
 Hope You like my project;)
 
-# IT'S MUTH 2.69!!!!!!
+# IT'S MUTH 3.69!!!!!!
 # What's New??
-I changed all those functions with hindi output and also changed there names in hinglish.
+   - Added Physics formulas like mass, force and many more. Read **doc.txt** for more info
+
+   - Added perimeters
+
+   - Added speed,distance and time
+
+   - added variable pi(i know i should hav done it before)
 
 # Upcoming
-Fijiks formulas 🙃
-
-Perimeter
+Will add more fijiks formulas 🙃
 
 Trigonometry (after an year)
 
