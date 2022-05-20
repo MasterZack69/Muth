@@ -247,14 +247,20 @@ void samay(float a, float b)
 	std::cout << space2;
 }
 
-void doori(float a, float b) {
+void doori(float a, float b) 
+{
 	std::cout << space;
-	std::cout << "दूरी \n" << "रफ़्तार : " <<  a << ", समय : " << b << "\n" << " = " << a * b << "\n";
+	std::cout << "दूरी \n" 
+<< "रफ़्तार : " <<  a << ", समय : " << b << "\n" 
+<< " = " << a * b << "\n";
 	std::cout << space2;
 }
 
-void ghanatva(float a,float b) {
+void ghanatva(float a,float b) 
+{
 	std::cout << space;
-	std::cout << "घनत्व \n" << "द्रव्यमान : " << a << ", मात्रा : " << b << "\n" << " = " << a / b << "\n" ;
+	std::cout << "घनत्व \n"
+ << "द्रव्यमान : " << a << ", मात्रा : " << b << "\n" 
+<< " = " << a / b << "\n" ;
 	std::cout << space2;
 }
