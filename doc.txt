@@ -1,0 +1,55 @@
+jod() :- for Sum of 2 numbers
+
+ghata() :- for subtraction of 2 numbers
+
+guna() :- for multiplication of 2 numbers
+
+bhag() :-  for divison of 2 numbers
+
+pratishat() :- to get percentage of a fraction
+
+ka_pratishat(percent, of the number) :- to get a specific percent of a number
+
+trikon_ka_shetrafal(base,height) :- to get the area of triangle
+
+vritt_ka_shetrafal(radius) :- to get the area of Circle
+
+varg_ka_shetrafal(side) :- to get the area of square 
+
+aayat_ka_shetrafal(length, breadth) :- to get the area of a rectangle 
+
+samlambchaturbhurj_ka_shetrafal(Parallel side 1, parallel side 2, height) :- to get the area of a Trapezium
+
+samchaturbhurj_ka_shetrafal(base, height)	:- to get the area of Rhombus
+
+samantar_chaturbhurj_ka_shetrafal(base, height) :- to get the area of Parallelogram 
+
+ghanabh_ka_aytan(length, height ) :- to get the volume of Cuboid
+
+ghan_ka_aytan(side) :- to get the volume of cube
+
+belan_ka_aytan(radius,height) :- to get the volume of Right Cylinder 
+
+varg_ki_paridhi(side) :- to get the perimeter of square
+
+aayat_ka_parimap(length, width) :- to get the perimeter of Rectangle
+
+vritt_ki_paridhi(radius) :- to get the circumference of Circle
+
+samtulya_tribhuj_ka_parimap(side) :- to get the perimeter of Equivalent Triangle 
+
+bal(mass, acceleration) :- to get Force
+
+gatij_urja(mass, velocity) :- to get Kinetic Energy 
+
+tvaran(initial velocity, final velocity, time) :- to get acceleration 
+
+dravyaman(density, volume) :- to get mass of an object 
+
+raftaar(distance, time) :- to get speed
+
+samay(distance,speed) :- to get time
+
+doori(speed, time) :- to get distance 
+
+ghanatva(mass, volume) :- to get density 
