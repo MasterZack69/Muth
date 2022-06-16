@@ -19,4 +19,13 @@ Will add more fijiks formulas 🙃
 
 Trigonometry (after an year)
 
+# Credits
+
+Lead Developer:- MasterZack#4492
+
+Financer:- Myth#0010
+
+Special thanks :- iceman#4582 & BLA4KM4MBA#2865 
+
+
 
