@@ -12,14 +12,18 @@ Hope You like my project;)
 
    - Added speed,distance and time
 
-   - added variable pi(i know i should hav done it before)
+   - added variable pi(i know i should done it before)
 
 # Upcoming
-Will add more fijiks formulas 🙃
+ - Will add more fijiks formulas 🙃
 
-Trigonometry (after an year)
+ - Trigonometry (after an year)
+
+ - Command Line Interface 
+
 
 # Credits
+**Discord Usernames**
 
 Lead Developer:- MasterZack#4492
 
