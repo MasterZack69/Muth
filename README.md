@@ -27,7 +27,7 @@ Hope You like my project;)
 
 Lead Developer:- MasterZack#4492
 
-Financer:- Myth#0010
+Financer:- Myth#6052
 
 Special thanks :- iceman#4582 & BLA4KM4MBA#2865 & SEG-V#2783
 
