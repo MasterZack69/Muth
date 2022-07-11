@@ -4,15 +4,17 @@ Here you can get basic mathamatical operational functions like area and volume w
 
 Hope You like my project;)
 
-# IT'S MUTH 3.69!!!!!!
+# IT'S MUTH 4.69!!!!!!
 # What's New??
-   - Added Physics formulas like mass, force and many more. Read **doc.txt** for more info
+   - Replaced "float" with "double" coz it's memory efficient
 
-   - Added perimeters
+   - Replaced variable pi with constant pi
+   
+   - Added Temprature converting functions (like celcius into Fahrenheit)
 
-   - Added speed,distance and time
+   - Added Velocity function
 
-   - added variable pi(i know i should done it before)
+   - Changed all the functions name in English from hindi for more convenience 
 
 # Upcoming
  - Will add more fijiks formulas 🙃
@@ -27,7 +29,7 @@ Hope You like my project;)
 
 Lead Developer:- MasterZack#4492
 
-Financer:- Myth#6052
+Financer:- Myth#9655
 
 Special thanks :- iceman#4582 & BLA4KM4MBA#2865 & SEG-V#2783
 
