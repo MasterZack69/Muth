@@ -1,0 +1,38 @@
+#pragma once
+
+void jod(double a, double b);
+void ghata(double a, double b);
+void guna(double a, double b);
+void bhag(double a, double b);
+void pratishat(double a, double b);
+void ka_pratishat(double a, double b);
+void AreaTri(double a, double b);
+void AreaCir(double a);
+void AreaSq(double a);
+void AreaRec(double a, double b);
+void AreaTrap(double a, double b, double c);
+void AreaRhom(double a, double b);
+void AreaPara(double a, double b);
+void VolCube(double a);
+void VolCuboid(double a, double b, double c);
+void AreaCyl(double a, double b);
+void PeriSq(double a);
+void PeriRec(double a, double b);
+void Circum(double a);
+void PeriTri(double a);
+void Force(double a, double b);
+void KinEnergy(double a, double b);
+void Accel(double a, double b, double c);
+void Mass(double a, double b);
+void Speed(double a, double b);
+void Time(double a, double b);
+void Distance(double a, double b);
+void Density(double a,double b);
+void FinVelocity(double a, double b, double c);
+void InVelocity(double a, double b, double c);
+void CelFahr(double a);
+void CelKel(double a);
+void FahrCel(double a);
+void FahrKel(double a);
+void KelCel(double a);
+void KelFahr(double a);

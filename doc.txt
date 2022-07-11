@@ -1,0 +1,73 @@
+jod() :- for Sum of 2 numbers
+
+ghata() :- for subtraction of 2 numbers
+
+guna() :- for multiplication of 2 numbers
+
+bhag() :-  for divison of 2 numbers
+
+pratishat() :- to get percentage of a fraction
+
+ka_pratishat(percent, of the number) :- to get a specific percent of a number
+
+AreaTri(base,height) :- to get the area of triangle
+
+AreaCir(radius) :- to get the area of Circle
+
+AreaSq(side) :- to get the area of square 
+
+AreaRec(length, breadth) :- to get the area of a rectangle 
+
+AreaTrap(Parallel side 1, parallel side 2, height) :- to get the area of a Trapezium
+
+AreaRhom(base, height)	:- to get the area of Rhombus
+
+AreaPara(base, height) :- to get the area of Parallelogram 
+
+VolCuboid(length, height ) :- to get the volume of Cuboid
+
+VolCube(side) :- to get the volume of cube
+
+AreaCyl(radius,height) :- to get the volume of Right Cylinder 
+
+PeriSq(side) :- to get the perimeter of square
+
+PeriRec(length, width) :- to get the perimeter of Rectangle
+
+Circum(radius) :- to get the circumference of Circle
+
+PeriTri(side) :- to get the perimeter of Equivalent Triangle 
+
+Force(mass, acceleration) :- to get Force
+
+KinEnergy(mass, velocity) :- to get Kinetic Energy 
+
+Accel(initial velocity, final velocity, time) :- to get acceleration 
+
+Mass(density, volume) :- to get mass of an object 
+
+Speed(distance, time) :- to get speed
+
+Time(distance,speed) :- to get time
+
+Distance(speed, time) :- to get distance 
+
+Density(mass, volume) :- to get density
+
+FinVelocity(initial velocity, acceleration, time) :- to get final velocity
+
+
+InVelocity(final velocity, acceleration, time) :- to get initial Velocity 
+
+CelFahr(Degree Celcius) :- to convert Celcius into Fahrenheit 
+
+CelKel(degree Celsius) :- to convert Celcius into Kelvin
+  
+FahrCel(degree Fahrenheit) :- to convert Fahrenheit into Celcius 
+
+FahrKel(degree Fahrenheit) :- to convert Fahrenheit into Kelvin 
+
+KelCel(degree kelvin) :- to convert kelvin into Celcius 
+
+KelFahr(Degree kelvin) :- to comvert kelvin into Fahrenheit 
+
