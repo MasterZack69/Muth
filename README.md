@@ -14,14 +14,14 @@ Hope You like my project;)
 
    - Added Velocity function
 
-   - Changed all the functions name in English from hindi for more convenience 
+   - Changed all the functions name in English from hindi for more convenience (except simple arithmetic)
 
 # Upcoming
  - Will add more fijiks formulas 🙃
 
  - Trigonometry (after an year)
 
- - Command Line Interface 
+ - Command Line Interface (after a decade)
 
 
 # Credits
